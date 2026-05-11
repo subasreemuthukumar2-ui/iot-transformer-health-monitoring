@@ -95,3 +95,8 @@ cd smart-timetable-app
 
 # No installation required! Python has all built-in modules
 >>>>>>> timetable/main
+
+## Features
+- Real-time transformer monitoring
+- Temperature monitoring
+- IoT-based alert system
